@@ -14,5 +14,5 @@ This script forecasts the next 14 days of prices for PLEX, Large Skill Injector,
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/EVEPriceForecast.git
+   git clone https://github.com/EdwardTTTT/EVEPriceForecast.git
    cd EVEPriceForecast
